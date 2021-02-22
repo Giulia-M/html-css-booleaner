@@ -14,3 +14,17 @@
     padding-top: 50px;
     padding-left: 50px;
 }
+.maxi-container {
+    margin: auto;
+    max-width: 1000px;
+}
+#titolo {
+    font-family: 'RocknRoll One', sans-serif;
+    font-size: 30px;
+}
+#colore-sottotitolo {
+    color: #20aae5;
+}
+.sottotitolo {
+    color: #acacac;
+}

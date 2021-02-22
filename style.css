@@ -6,15 +6,16 @@
 .container1 {
     width: 1200px;
     margin:auto;
-  }
-  .logo {
+}
+.logo {
     width: 200px;
-  }
-  .container0 {
+}
+
+.container0 {
     background-image: url(img/pattern.png);
     height: 100px;
     background-color: #4ea1ff;
-  }
+}
 
 
 .maxi-container {

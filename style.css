@@ -91,6 +91,7 @@ footer {
     height: 120px;
     background-size: contain;
     background-repeat: no-repeat;
+    margin-top: 10px;
 }
 .img2-sfondo {
     background-image: url(img/graph.jpg);

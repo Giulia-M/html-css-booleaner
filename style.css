@@ -1,5 +1,6 @@
 * {
     margin: 0;
+    padding: 0;
 }
 .container {
     height: 160px;
@@ -31,6 +32,97 @@
 #dimensione-sottotitolo {
     font-size: 10px;
 }
+.didascalia {
+    font-size: 13px;
+}
 .img-parte1 {
     margin-top: 15px;
+}
+.paragrafo-1 {
+    margin-top: 20px;
+}
+.lista {
+    margin-top: 40px;
+}
+/* .inizio {
+    margin-top: 30px;
+}
+.row {
+    background-color: #20aae5;
+    color: white;
+    text-align: left; 
+}
+.row-left {
+    display: inline-block;
+    width: 20%;
+    height: 30px;
+    
+}
+.row-right {
+    display: inline-block;
+    width: 58%;
+    height: 30px;
+}
+.row-center {
+    display: inline-block;
+    width: 20%;
+    height: 30px;
+}
+.row-chiaro {
+    background-color: #b1e5f2;
+}
+
+.row-bianco {
+    background-color: white;
+} */
+
+.grandezza1 {
+    width: 20%;
+
+}
+.grandezza2 {
+    width: 60%;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}   
+.bluscuro {
+    background-color: #20aae5;    
+}
+th, td {
+    text-align: left;
+  
+}
+th {
+    color: white;
+}
+
+.blu-chiaro {
+    background-color: #b1e5f2;
+}
+
+footer {
+    margin-top: 20px;
+    color: #808080;
+}
+
+.img1-sfondo {
+    background-image: url(img/monitor.jpg);
+    height: 120px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.img2-sfondo {
+    background-image: url(img/graph.jpg);
+    height: 120px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 5px;
+}
+.formattazione {
+    color: white;
+    padding: 10px 10px;
 }

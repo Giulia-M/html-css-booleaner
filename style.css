@@ -2,7 +2,7 @@
     margin: 0;
 }
 .container {
-    height: 180px;
+    height: 160px;
 }
 .pattern {
     background-image: url(img/pattern.png); 
@@ -26,5 +26,11 @@
     color: #20aae5;
 }
 .sottotitolo {
-    color: #acacac;
+    color: #acacac;   
+}
+#dimensione-sottotitolo {
+    font-size: 10px;
+}
+.img-parte1 {
+    margin-top: 15px;
 }

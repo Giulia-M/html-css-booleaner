@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+}
+.container {
+    height: 180px;
+}
+.pattern {
+    background-image: url(img/pattern.png); 
+    background-color: #4ea1ff;
+    height: 100%;
+}
+.img-item {
+    max-width: 300px;
+    padding-top: 50px;
+    padding-left: 50px;
+}

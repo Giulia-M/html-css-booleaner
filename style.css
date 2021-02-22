@@ -9,14 +9,14 @@
     background-color: #4ea1ff;
     height: 100%;
 }
-.img-item {
+.logo-img-item {
     max-width: 300px;
     padding-top: 50px;
     padding-left: 50px;
 }
 .maxi-container {
     margin: auto;
-    max-width: 1000px;
+    max-width: 1200px;
 }
 #titolo {
     font-family: 'RocknRoll One', sans-serif;

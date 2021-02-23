@@ -50,7 +50,6 @@
 
 .grandezza1 {
     width: 20%;
-
 }
 .grandezza2 {
     width: 60%;
@@ -66,7 +65,6 @@ table {
 }
 th, td {
     text-align: left;
-  
 }
 th {
     color: white;
@@ -81,19 +79,19 @@ footer {
     color: #808080;
 }
 
-.img1-sfondo {
+#img1-sfondo {
     background-image: url(img/monitor.jpg);
+}
+
+#img2-sfondo {
+    background-image: url(img/graph.jpg);
+}
+
+.footer-img {
     height: 120px;
     background-size: contain;
     background-repeat: no-repeat;
     margin-top: 10px;
-}
-.img2-sfondo {
-    background-image: url(img/graph.jpg);
-    height: 120px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    margin-top: 5px;
 }
 .formattazione {
     color: white;

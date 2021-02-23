@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.container1 {
+.wrapper {
     width: 1200px;
     margin:auto;
 }
@@ -19,11 +19,6 @@
     background-size: auto 240px;
 }
 
-
-.maxi-container {
-    margin: auto;
-    max-width: 1200px;
-}
 #titolo {
     font-family: 'RocknRoll One', sans-serif;
     font-size: 30px;
